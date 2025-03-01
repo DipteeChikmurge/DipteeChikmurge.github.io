@@ -15,6 +15,7 @@ header {
 nav ul {
     list-style: none;
     padding: 0;
+    text-align: center;
 }
 
 nav ul li {
@@ -34,8 +35,10 @@ nav ul li a {
     margin: auto;
     background: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
 }
 
 h1, h2 {
     text-align: center;
+    color: #333;
 }
